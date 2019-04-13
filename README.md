@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome! In this module we’re going to start learning how to program in Ruby.
+Welcome! In this module we’re going to start learning how to program in Python.
 
 It will be a long process and you will have moments of elation, excitement and,
 sometimes, we're sorry to say, frustration. But we _promise_ you, learning to
@@ -69,9 +69,9 @@ _evaluated_. When we're talking with a friend and we say something deep, or
 challenging, or complex to them, we look at them and can see them _evaluating_
 our expression.
 
-Ruby does the same.
+Python does the same.
 
-Given an _expression_, Ruby will _evaluate_ it and, like a good friend, give
+Given an _expression_, Python will _evaluate_ it and, like a good friend, give
 you a reaction about _how_ it evaluated your expression. In day-to-day life we
 call that a "response." It might be a snort, a giggle, an eye-roll, a head nod,
 or a screaming of "ANYTHING BUT THAT!" In the programming world we call
@@ -85,4 +85,4 @@ Congratulations! You've finished your first lesson in thinking about
 programming as conversation. As you might guess, _expressions_ are really
 important because they're how we "push" ideas to computers and other
 programmers. We're going to spend the remainder of this module learning to
-build expressions and predict how Ruby will _evaluate_ them.
+build expressions and predict how Python will _evaluate_ them.
